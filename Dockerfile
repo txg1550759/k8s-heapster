@@ -3,3 +3,4 @@ MAINTAINER idea77@qq.com
 
 RUN ls /etc/
 
+ENTRYPOINT ["/heapster"]
